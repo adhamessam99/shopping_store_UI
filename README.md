@@ -1,6 +1,6 @@
-Shopping-Store-UI
+# Shopping-Store-UI
 
-# Overview
+## Overview
 The Shopping Store project is a user interface (UI) for an online shopping store. It allows users to browse items, add them to a shopping cart, calculate the total price of items in the cart, 
 and remove items from the cart as needed. 
 
